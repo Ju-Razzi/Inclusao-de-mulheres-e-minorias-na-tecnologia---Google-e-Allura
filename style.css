@@ -6,6 +6,7 @@ body {
     font-family: "Fira Sans", sans-serif; /* Define a fonte padrão */
     background-color: #926492; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
+    flex-wrap: reverse;
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
