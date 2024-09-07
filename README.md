@@ -1,3 +1,6 @@
+**LINK**
+https://inclusao-de-mulheres-e-minorias-na-tecnologia-google-e-allura.vercel.app/
+
 ## Inclusão de mulheres e minorias na tecnologia: Projeto feito durante Imersão DEV da Alura com o Google Gemini
 
 **O que essa aplicação faz?**
@@ -44,5 +47,5 @@ Se você é desenvolvedor(a) e quer ajudar a melhorar essa aplicação, fique à
 2. **Abra o index.html:** Dê uma olhada no código e veja como tudo funciona.
 3. **Experimente:** Mude as cores, adicione mais projetos, deixe a aplicação do seu jeito!
 
-
-
+**LINK**
+https://inclusao-de-mulheres-e-minorias-na-tecnologia-google-e-allura.vercel.app/
