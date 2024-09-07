@@ -147,6 +147,10 @@ footer {
 }
 
 @media (max-width: 768px) {
+     header {
+        margin-top: 20rem;
+    }
+
     h1 {
         font-size: 2rem; /* Tamanho da fonte em telas menores */
         letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
